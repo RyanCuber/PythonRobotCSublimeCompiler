@@ -1,4 +1,6 @@
 PythonRobotCSublimeCompiler
 ===========================
 
-Python script to Compile and Download RobotC Code from Sublime Text
+Python script to Compile and Download RobotC Code from Sublime Text.
+
+Must have pywin32 and sublime text and robotc. Useful tool for FTC coding.
